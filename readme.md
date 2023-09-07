@@ -9,7 +9,7 @@ Welcome to the Online Grocery Shopping Web Design project, developed under the i
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Screenshots](#screenshots)
--   [Technologies Used](#technologies-used)
+-   [Technologies Used](#technologies-and-materials-used)
 -   [License](#license)
 
 ## Project Overview
@@ -32,7 +32,7 @@ This project is a part of the internship program at squbix Digital. The goal is 
 
 ## Usage
 
-1. Click on the`**Go Live**`button on the bottom-right corner on the index.html page.`
+1. Click on the <kbd> Go Live </kbd> `button on the bottom-right corner on the index.html page.`
 
 ## Screenshots
 
