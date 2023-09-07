@@ -38,7 +38,7 @@ This project is a part of the internship program at squbix Digital. The goal is 
 
 ![Homepage](./assets/shop.png)
 
-## Technologies, and Materials Used
+## Technologies and Materials Used
 
 -   HTML5, CSS3, JavaScript
 -   Figma Design's
